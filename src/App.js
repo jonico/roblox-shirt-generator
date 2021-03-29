@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 import template from './images/shirt-template.png';
 import evan from './images/evan.jpg';
+import sophie from './images/happy-bday.png';
 
 import './App.css';
 import { toJpeg } from 'html-to-image';
@@ -120,12 +121,12 @@ const About = () => {
   return (
   <div style={{background:'white', padding:20, height:'100%'}}>
     <div style={{minHeight:600, maxWidth:650}}>
-    <h1>About Me</h1>
-      
-      <img src={evan} style={{width:200, paddingRight: 20}} alt="Evan" className="float-l" />
+    <h1>Haypp Birthday Sophie!</h1>
+      <img src={sophie} style={{width:200, paddingRight: 20}} alt="Sophie" className="float-l" />
       <p>
-        Hi! My name is Evan Weinberg. I'm 10 years old. I love playing Roblox with my friends. A LOT. 
+        This app was created by Evan Weinberg. I'm 10 years old. I love playing Roblox with my friends. A LOT. 
       </p>
+      <img src={evan} style={{width:200, paddingRight: 20}} alt="Evan" className="float-l" />
       <p> 
         I got builder's club, so I can make shirts for our group. But the tools to make shirts were hard to use.
         I couldn't find anything that made it easier, so i decided to build my own tool.

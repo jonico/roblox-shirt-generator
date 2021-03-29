@@ -156,7 +156,7 @@ class Sidebar extends Component {
             <div className="sidebar flex-col">
                 
                 <h3 className="headline">
-                    {data ? `Editing ${data.name}` : 'Roblox Shirt Creator'}
+                    {data ? `Editing ${data.name}` : 'Happy b-day 444galaxygirl'}
                 </h3>
                 <div className="panel h-full flex-col">
                     {contents}

@@ -122,9 +122,9 @@ const About = () => {
   <div style={{background:'white', padding:20, height:'100%'}}>
     <div style={{minHeight:600, maxWidth:650}}>
     <h1>Haypp Birthday Sophie!</h1>
-      <img src={sophie} style={{width:200, paddingRight: 20}} alt="Sophie" className="float-l" />
+      <img src={sophie} style={{width:200, paddingRight: 20}} alt="Sophie" />
       <p>
-        This app was created by Evan Weinberg. I'm 10 years old. I love playing Roblox with my friends. A LOT. 
+        I hope, that you are enjoying this Roblox Shirt-Generator for your tenth birthday. It was created by Evan Weinberg when he was 10 years old. This is what Evan says about himself: I love playing Roblox with my friends. A LOT. 
       </p>
       <img src={evan} style={{width:200, paddingRight: 20}} alt="Evan" className="float-l" />
       <p> 

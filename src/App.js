@@ -121,7 +121,7 @@ const About = () => {
   return (
   <div style={{background:'white', padding:20, height:'100%'}}>
     <div style={{minHeight:600, maxWidth:650}}>
-    <h1>Haypp Birthday Sophie!</h1>
+    <h1>Happy Birthday Sophie!</h1>
       <img src={sophie} style={{width:200, paddingRight: 20}} alt="Sophie" />
       <p>
         I hope, that you are enjoying this Roblox Shirt-Generator for your tenth birthday. It was created by Evan Weinberg when he was 10 years old. This is what Evan says about himself: I love playing Roblox with my friends. A LOT. 
